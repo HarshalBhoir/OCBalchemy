@@ -1,0 +1,4 @@
+sqlalchemy
+
+http://download.gna.org/pychart/PyChart-1.39.tar.gz#egg=PyChart
+https://github.com/OCA/OCB/archive/8.0.zip
